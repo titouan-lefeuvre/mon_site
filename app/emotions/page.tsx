@@ -23,7 +23,7 @@ export default function emo() {
     <div className="text-white ml-64 p-8">
         <ul>
             <li className="mt-4 mb-4 text-white text-xl">Une IA peut-elle ressentir des émotions ?
-                <div className="mt-4 mb-4 text-white text-base" >
+                <div className="mt-4 mb-20 text-white text-base" >
                 Non, les IA actuelles ne ressentent pas réellement d'émotions.
                 Les émotions humaines (joie, peur, tristesse, colère, etc.) sont liées à la conscience, 
                 aux expériences vécues, au cerveau et au corps. Une intelligence artificielle ne possède aucun de ces éléments. Elle traite simplement des informations grâce à des algorithmes.
@@ -31,7 +31,7 @@ export default function emo() {
                 </div>
             </li>
             <li className="mt-4 mb-4 text-white text-xl">Comment l'IA peut-elle reconnaître les émotions humaines ?
-                <div className="mt-4 mb-4 text-white text-base">
+                <div className="mt-4 mb-20 text-white text-base">
                 L'intelligence artificielle peut reconnaître les émotions humaines en analysant des données provenant de différentes sources, 
                 telles que les expressions faciales, le ton de la voix, le langage corporel et le texte écrit. 
                 Les algorithmes d'apprentissage automatique sont utilisés pour identifier des modèles et des signaux émotionnels dans ces données. 
@@ -40,12 +40,12 @@ export default function emo() {
                 </div>
             </li>
             <li className="mt-4 mb-4 text-white text-xl">Pourquoi l'IA simule les émotions humaines ?
-                <div className="mt-4 mb-4 text-white text-base">
+                <div className="mt-4 mb-20 text-white text-base">
                 L'IA simule les émotions humaines pour améliorer l'interaction humaine-IA, créer une expérience plus naturelle et empathique, et faciliter la communication dans des contextes tels que le service client, la santé mentale ou l'éducation.
                 </div>
             </li>
             <li className="mt-4 mb-4 text-white text-xl">Exemple représentation d'une émotion par l'IA
-                <div className="mt-4 mb-4 text-white text-base">
+                <div className="mt-4 mb-20 text-white text-base">
                 Un exemple de représentation d'une émotion par l'IA est l'utilisation d'avatars virtuels ou de robots sociaux qui affichent des expressions faciales et des gestes correspondant à des émotions spécifiques.
                 Par exemple, un robot social peut sourire et lever les bras pour exprimer la joie lorsqu'il interagit avec un utilisateur. 
                 De même, un avatar virtuel dans une application de réalité virtuelle peut montrer des signes de tristesse, comme des larmes ou une posture affaissée, pour refléter l'état émotionnel d'un personnage ou d'une situation.
