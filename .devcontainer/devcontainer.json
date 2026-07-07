@@ -1,0 +1,5 @@
+{
+  "name": "Next.js",
+  "image": "node:22",
+  "forwardPorts": [3000]
+}
