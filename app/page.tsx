@@ -2,7 +2,7 @@
 
 import Button from "./component/button";
 
-import IA_image_sombre from "./component/IA_image_sombre.jpg";
+import IA_image from "./component/IA_image_v2.jpg";
 
 import MenuDeroulant from "./component/menu_deroulant";
 
@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-center bg-cover bg-fixed bg-no-repeat bg-slate-950 flex flex-col font-sans" 
     style={{
-  backgroundImage: `url(${IA_image_sombre.src})`,
+  backgroundImage: `url(${IA_image.src})`,
   backgroundSize: "100%",
 }}>   
        <div className="bg-blue/50 flex"></div>

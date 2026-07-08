@@ -2,7 +2,7 @@
 
 import { useState } from "react";
    
-import IA_image from "../component/IA_image.jpg";
+import IA_image from "../component/IA_image_v2.jpg";
 
 import MenuDeroulant from "../component/menu_deroulant";
 
