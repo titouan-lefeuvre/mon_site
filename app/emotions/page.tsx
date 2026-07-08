@@ -2,7 +2,7 @@
 
 import MenuDeroulant from "../component/menu_deroulant";
 
-import IA_image from "../component/IA_image_sombre.jpg";
+import IA_image_sombre from "../component/IA_image_sombre.jpg";
 
 
 export default function emo() {
@@ -11,7 +11,7 @@ export default function emo() {
     style={{
   backgroundImage:
 
-  `url(${IA_image.src})`,
+  `url(${IA_image_sombre.src})`,
   backgroundSize: "100%",
 
 }}>   
