@@ -11,14 +11,10 @@ export default function MenuDeroulant() {
         onChange={(e) => router.push(e.target.value)}
       >
         <option value="">changer de page</option>
-        <option value="http://localhost:3000/">Accueil</option>
+        <option value="/">Accueil</option>
         <option value="/emotions">Les émotions</option>
         <option value="/quiz">Quiz IA</option>
       </select>
     </div>
   );
 }
-
-
-
-
