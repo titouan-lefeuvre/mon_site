@@ -75,8 +75,6 @@ export default function QuizIA() {
   backgroundSize: "100%",
 }}>   
     <MenuDeroulant />
-        <div className="ml-64 p-8"></div>
-
       <div className="quiz-result ml-64 p-8  text-white mt-50 text-4xl">
         <h2>Quiz terminé !</h2>
         <p>
@@ -110,7 +108,6 @@ export default function QuizIA() {
 
 }}>   
     <MenuDeroulant />
-        <div className="ml-64 p-8"></div>
     <h1 className="ml-64 p-8 text-6xl font-bold mb-1 text-white text-center justify-start p-15">
       Petit quiz sur l'IA
     </h1>
