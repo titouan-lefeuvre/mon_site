@@ -7,7 +7,7 @@ import IA_image from "../component/IA_image.jpg";
 
 export default function emo() {
   return (
-<main className="min-h-screen bg-center bg-fixed bg-black/70 bg-no-repeat bg-slate-950 flex flex-col font-sans" 
+<main className="min-h-screen bg-center bg-cover bg-fixed bg-black/70 bg-no-repeat bg-slate-950 flex flex-col font-sans" 
     style={{
   backgroundImage:
 

@@ -8,7 +8,7 @@ import MenuDeroulant from "./component/menu_deroulant";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-center bg-fixed bg-no-repeat bg-slate-950 flex flex-col font-sans" 
+    <main className="min-h-screen bg-center bg-cover bg-fixed bg-no-repeat bg-slate-950 flex flex-col font-sans" 
     style={{
   backgroundImage: `url(${IA_image.src})`,
   backgroundSize: "100%",
