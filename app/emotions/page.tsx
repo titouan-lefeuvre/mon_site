@@ -2,7 +2,7 @@
 
 import MenuDeroulant from "../component/menu_deroulant";
 
-import IA_image from "../component/IA_image.jpg";
+import IA_image from "../component/IA_image_sombre.jpg";
 
 
 export default function emo() {

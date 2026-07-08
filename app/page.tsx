@@ -2,7 +2,7 @@
 
 import Button from "./component/button";
 
-import IA_image from "./component/IA_image.jpg";
+import IA_image from "./component/IA_image_sombre.jpg";
 
 import MenuDeroulant from "./component/menu_deroulant";
 
