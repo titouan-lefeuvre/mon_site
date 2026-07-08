@@ -67,7 +67,7 @@ export default function QuizIA() {
 
   if (finished) {
     return (
-    <main className="min-h-screen bg-center bg-black/70 bg-no-repeat bg-slate-950 flex flex-col mt-15 font-sans" 
+    <main className="min-h-screen bg-center bg-fixed bg-black/70 bg-no-repeat bg-slate-950 flex flex-col mt-15 font-sans" 
     style={{
   backgroundImage:
 
